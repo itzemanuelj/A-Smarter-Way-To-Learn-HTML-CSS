@@ -1,0 +1,54 @@
+p {
+  font-family: serif;
+}
+/* 
+2. Type the first 3 characters of CSS code that specifies styling for paragraphs. */
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* 3. Type the first four characters of CSS code that specifies styling for the smallest heading. */
+h6 {
+  font-family: Georgia;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* Style paragraphs. The font stack is Verdana, Geneva, sans-serif. */
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Style the largest heading. The font stack is Arial, Helvetica, sans-serif. */
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Write the second line of styling code that specifies Tahoma, Geneva, and sans-serif as the font stack. Don't bother to indent. */
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* 10. Write all three lines of styling code for the second-largest heading that specify Verdana, Geneva, and sans-serif as the font stack. */
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Write all three lines of styling code for a heading of your choice that specify Arial, Helvetica, and sans-serif as the font stack. */
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* If the first font in a font stack is Times, what is the last font in the stack, typically? */
+p {
+  font-family: "Times New Roman", Times, serif;
+}
