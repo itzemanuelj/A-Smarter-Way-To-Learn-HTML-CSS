@@ -1,0 +1,55 @@
+/* 1. What are the first 10 characters for specifying how big you want font size? */
+p {
+  font-size: small;
+}
+
+/* 2. What unit of measurement do I recommend for specifying font-size? (3 characters) */
+p {
+  font-size: 1em;
+}
+
+/* 3. If the specification is 1.5em, the font is to be 150% of the default size. */
+
+/* 4. Give me any one of the three alternatives to ems that I mention. (All three words are plurals.) */
+/* px ems % */
+
+p {
+  font-size: 75em;
+}
+
+/* Specify the font size as twice the default size. */
+p {
+  font-size: 2em;
+}
+
+/* Specify for the third largest heading a font-size that's twice the default text size. Don't forget to indent the second line two spaces. */
+h3 {
+  font-size: 2em;
+}
+
+/* 8. How do you say you want it to be 2-1/2 times the default size? */
+p {
+  font-size: 1.5em;
+}
+
+/* 9. Write code specifying any size you like for paragraphs. */
+p {
+  font-size: 1.5em;
+}
+
+/* 10. Style any size of headings three-quarters of the default size. */
+h1 {
+  font-size: 1em;
+}
+
+/* 11. Style paragraphs the same as the default size. */
+p {
+  font-size: 1em;
+}
+
+/* 2. Style the font-size (your choice) for your choice of paragraph or heading. */
+
+p,
+h2 {
+  font-size: 1em;
+}
